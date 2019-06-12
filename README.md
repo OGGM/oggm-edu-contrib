@@ -1,13 +1,13 @@
-# Example repository for external contributions to OGGM-Edu
+# Example for external contributions to OGGM-Edu
 
 In this repository, we illustrate how you can create your own educational content (in a notebook) and run it
 in an OGGM / MyBinder environment.
 
 There are two steps:
 
-1. Create your content and put in on an online repository
+**1. Create your content and put in on an online repository**
 
-2. Create and share the link as explained below.
+**2. Create and share the link as explained below.**
 
 ## How to create a link
 
