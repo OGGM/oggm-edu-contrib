@@ -13,21 +13,21 @@ There are two steps:
 
 The link must have the following syntax:
 
-`https://mybinder.org/v2/gh/OGGM/oggm-edu-r2d/master?urlpath=git-pull?repo=<PATH/TO/YOUR/REPO>`
+`https://mybinder.org/v2/gh/OGGM/binder/master?urlpath=git-pull?repo=<PATH/TO/YOUR/REPO>`
 
 For example, here is the link to this repository:
 
-https://mybinder.org/v2/gh/OGGM/oggm-edu-r2d/master?urlpath=git-pull?repo=https://github.com/OGGM/oggm-edu-contrib
+https://mybinder.org/v2/gh/OGGM/binder/master?urlpath=git-pull?repo=https://github.com/OGGM/oggm-edu-contrib
 
 **To open in a jupyter-lab instead**, use:
 
-`https://mybinder.org/v2/gh/OGGM/oggm-edu-r2d/master?urlpath=git-pull?repo=<PATH/TO/YOUR/REPO>%26amp%3Burlpath=lab/tree/<YOUR_REPO_NAME>`
+`https://mybinder.org/v2/gh/OGGM/binder/master?urlpath=git-pull?repo=<PATH/TO/YOUR/REPO>%26amp%3Burlpath=lab/tree/<YOUR_REPO_NAME>`
 
 **To open in a jupyter-lab and at a specific folder/file**, use:
 
-`https://mybinder.org/v2/gh/OGGM/oggm-edu-r2d/master?urlpath=git-pull?repo=<PATH/TO/YOUR/REPO>%26amp%3Burlpath=lab/tree/<YOUR_REPO_NAME>/<PATH/TO/FILE>`
+`https://mybinder.org/v2/gh/OGGM/binder/master?urlpath=git-pull?repo=<PATH/TO/YOUR/REPO>%26amp%3Burlpath=lab/tree/<YOUR_REPO_NAME>/<PATH/TO/FILE>`
 
 For example, this opens the test notebook in Jupyter Lab:
 
-https://mybinder.org/v2/gh/OGGM/oggm-edu-r2d/master?urlpath=git-pull?repo=https://github.com/OGGM/oggm-edu-contrib%26amp%3Burlpath=lab/tree/oggm-edu-contrib/getting_started_with_contrib.ipynb
+https://mybinder.org/v2/gh/OGGM/binder/master?urlpath=git-pull?repo=https://github.com/OGGM/oggm-edu-contrib%26amp%3Burlpath=lab/tree/oggm-edu-contrib/getting_started_with_contrib.ipynb
 
